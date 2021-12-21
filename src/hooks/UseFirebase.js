@@ -79,7 +79,6 @@ const useFirebase = () => {
 
   return {
     user,
-    admin,
     isLoading,
     authError,
     registerUser,
